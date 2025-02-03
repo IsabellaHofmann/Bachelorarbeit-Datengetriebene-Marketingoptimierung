@@ -15,4 +15,4 @@ Willkommen in diesem GitHub-Repository, das im Rahmen meiner Bachelorarbeit erst
 ## Datenquellen
 
 - 'digital_marketing_campaign_dataset': Rabie El Kharoua. (2024). 📈 Predict Conversion in Digital Marketing Dataset [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/8742946
-- - 'Dataset_Ads': Tawade, Jagadish; Kulkarni, Nitiraj (2024), “Dataset: Online Advertisement Click-Through Rates”, Mendeley Data, V1, doi: 10.17632/wrvjmdtjd9.1
+- 'Dataset_Ads': Tawade, Jagadish; Kulkarni, Nitiraj (2024), “Dataset: Online Advertisement Click-Through Rates”, Mendeley Data, V1, doi: 10.17632/wrvjmdtjd9.1
