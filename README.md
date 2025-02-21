@@ -28,4 +28,6 @@ Diese Modelle wurden daraufhin evaluiert und mit einer einfachen Baseline vergli
 
 - **DS2: `Dataset_Ads`**  
   - Quelle: Tawade, Jagadish; Kulkarni, Nitiraj (2024). “Dataset: Online Advertisement Click-Through Rates”, Mendeley Data.  
-  - DOI: [10.17632/wrvjmdtjd9.1](https://doi.org/10.17632/wrvjmdtjd9.1)  
+  - DOI: [10.17632/wrvjmdtjd9.1](https://doi.org/10.17632/wrvjmdtjd9.1)
+
+Dieses Repository dient ausschließlich akademischen Zwecken. Die verwendeten Datensätze unterliegen den jeweiligen Lizenzbedingungen der Autoren.
