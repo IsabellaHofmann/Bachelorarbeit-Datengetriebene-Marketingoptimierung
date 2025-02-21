@@ -1,18 +1,31 @@
-# Bachelorarbeit Repository
+# Datengetriebene Marketingoptimierung - Bachelorarbeit
 
-Willkommen in diesem GitHub-Repository, das im Rahmen meiner Bachelorarbeit erstellt wurde. Dieses Repository beinhaltet sämtliche relevanten Dateien, insbesondere Jupyter Notebooks, die die durchgeführten Analysen, den Quellcode und die erzielten Ergebnisse dokumentieren.
+Willkommen in diesem GitHub-Repository! Dieses Repository enthält alle relevanten Dateien und Analysen, die im Rahmen meiner Bachelorarbeit zur datengetriebenen Marketingoptimierung verwendet wurden.
 
-## Inhalt
+## Inhalt  
 
-- `Analyse_df2.ipynb` - Dieses Jupyter Notebook enthält eine detaillierte Analyse eines Datensatzes. Der Schwerpunkt liegt auf der Untersuchung relevanter Einflussfaktoren, der Datenbereinigung und -transformation sowie der Durchführung statistischer Analysen und Visualisierungen.
+- `Analyse_df2.ipynb` – Detaillierte Analyse des ersten Datensatzes DS1 (`digital_marketing_campaign_dataset`).  
+- `Analyse_df3.ipynb` – Detaillierte Analyse des zweiten Datensatzes DS2 (`Dataset_Ads`).
+- `digital_marketing_campaign_dataset.csv` – Der erste Datensatz mit Marketingkampagnendaten.
+- `Dataset_Ads.csv` – Der zweite Datensatz mit Marketingkampagnendaten. 
+- `README.md` – Diese Datei, die eine Übersicht über das Projekt gibt.  
 
-- `Analyse_df3.ipynb` - Dieses Notebook umfasst dieselben Analysemethoden wie `Analyse_df2.ipynb`, jedoch angewendet auf einen anderen Datensatz. Die identischen methodischen Schritte ermöglichen eine vergleichende Analyse zwischen den beiden Datensätzen.
+## Ziel der Arbeit  
 
-- `data/` - (Falls vorhanden) Verzeichnis mit den verwendeten Datensätzen.
-- `docs/` - (Falls vorhanden) Dokumentation und Berichte zur Arbeit.
-- `README.md` - Diese Datei, die eine Übersicht über das Repository bietet.
+Die Bachelorarbeit untersucht, wie datengetriebene Methoden zur Optimierung von Marketingmaßnahmen beitragen können. Dabei werden deskriptive und prädiktive Analysen verwendet, um Zusammenhänge zwischen demografischen Merkmalen, Marketingkanälen und der **ConversionRate** zu identifizieren.  
 
-## Datenquellen
+Zur Modellierung wurden zwei prädiktive Algorithmen eingesetzt:  
+- **Künstliche Neuronale Netze (KNN)**  
+- **Extreme Gradient Boosting (XGBoost)**  
 
-- 'digital_marketing_campaign_dataset': Rabie El Kharoua. (2024). 📈 Predict Conversion in Digital Marketing Dataset [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/8742946
-- 'Dataset_Ads': Tawade, Jagadish; Kulkarni, Nitiraj (2024), “Dataset: Online Advertisement Click-Through Rates”, Mendeley Data, V1, doi: 10.17632/wrvjmdtjd9.1
+Diese Modelle wurden daraufhin evaluiert und mit einer einfachen Baseline verglichen.  
+
+## Datenquellen  
+
+- **DS1: `digital_marketing_campaign_dataset`**  
+  - Quelle: Rabie El Kharoua (2024). 📈 Predict Conversion in Digital Marketing Dataset [Data set]. Kaggle.  
+  - DOI: [10.34740/KAGGLE/DSV/8742946](https://doi.org/10.34740/KAGGLE/DSV/8742946)  
+
+- **DS2: `Dataset_Ads`**  
+  - Quelle: Tawade, Jagadish; Kulkarni, Nitiraj (2024). “Dataset: Online Advertisement Click-Through Rates”, Mendeley Data.  
+  - DOI: [10.17632/wrvjmdtjd9.1](https://doi.org/10.17632/wrvjmdtjd9.1)  
